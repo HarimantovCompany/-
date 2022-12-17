@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="1.css">
+		<title>Одежда и обувь</title>	
+	</head>
+ <style>
+body {
+  background-image: url("ss.png");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+font-size: 60px;
+}
+ </style>
+	<body>
+		<nav class="top-menu">
+			<ul class="menu-main">
+			  <li class="left-item"><a href="ww.html" target="CONTENT">Home</a></li>
+			  <li class="left-item"><a href="acc.html" target="CONTENT">Account</a></li>
+			  <li class="left-item"><a href="shbag.html" target="CONTENT">Shop bag</a></li>
+			  <li class="right-item"><a href="yt.html" target="CONTENT">Table</a></li>
+			  <li class="right-item"><a href="glav.html" target="CONTENT">Login</a></li>
+			  <li class="right-item"><a href="regs.html" target="CONTENT">Registration</a></li>
+		  </ul>
+			<a class="navbar-logo" >CLOTHING SHOP</a>
+		  </nav>
+</body>
+</html>
