@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <link rel="stylesheet" href="1.css">
+        <meta charset="utf-8">
+		<title>clothesshoes.ru</title>	
+	</head>
+        <body style="background-image: url(ww.png); background-repeat: no-repeat" >
+            <h1 class="title">
+                <span>clothes&shoes</span>
+            </h1>
+     
+        <div>
+            <p class="test">На нашем сайте clothes&shoes.ru вы найдете мужскую и женскую зимнюю одежду разных моделей и цветовых гамм. Одежда из нежного хлопка прекрасно подойдет стильным и современным людям. Новые модели нашего бренда продолжают покорять сердца своих поклонников.</p>
+            <p class="test2">  </p>
+            <img  class="image" src="forww.png">
+            </div>
+            <div>
+                <img  class="image" src="forww2.png">
+                <p class="test2">  </p>
+                <p class="test">Акция -50% на верхнюю одежду до конца ноября. Успей купить!
+
+                    Заказывайте уже сейчас, и вы получите свой заказ в кратчайшие сроки. </p>
+                
+                </div>
+    <p class="textik"; align="right";><span>Электронный адрес разработчиков: ssumilina1@gmail.com  ksenia.styart04@yandex.ru</span></p>
+    </body>
+</html>
